@@ -34,7 +34,7 @@ Looking for my first **junior data analyst** opportunity (or internship) where I
 
 | Project                          | Description                                      | Tools                              | Status      | Link                                                                 |
 |----------------------------------|--------------------------------------------------|------------------------------------|-------------|----------------------------------------------------------------------|
-| House Prices Prediction          | Regression model to predict house prices (Kaggle-style) | Python, Pandas, Scikit-learn, Jupyter | In Progress | [View Project →](https://github.com/mapea1606/house-prices-prediction) |
+| House Prices Prediction          | Regression model to predict house prices | Python, Pandas, Scikit-learn, Jupyter | In Progress | [View Project →](https://github.com/mapea1606/house-prices-prediction) |
 | Video Game Sales Analysis        | EDA to discover sales trends, genres & regional patterns | Python, Pandas, Seaborn/Matplotlib | Completed   | [View Project →](https://github.com/mapea1606/video-game-sales-analysis) |
 | Data Pipeline + SQL Insights     | ETL process + SQL analysis for post-load insights | Python, SQL, PostgreSQL, Docker    | Completed   | [View Project →](https://github.com/mapea1606/data-pipeline)         |
 | Project Euler Quantitative Challenges | Problem-solving exercises to sharpen logic & Python skills | Python                             | Completed   | [View →](https://github.com/mapea1606/project-euler-solutions)       |
