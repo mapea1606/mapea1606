@@ -11,17 +11,22 @@
 
 ### About Me 🌟
 
-I'm a passionate junior data analyst focused on exploring datasets, finding meaningful patterns, and communicating clear, actionable insights to drive decisions.
+Passionate **junior data analyst** with a strong quantitative foundation and a genuine love for transforming complex data into clear, actionable business insights.  
 
-**Looking for** my first opportunity as a **Junior Data Analyst**, internship, or entry-level role where I can apply my skills and keep growing.
+Comfortable working with **Python** (Pandas, NumPy, Matplotlib/Seaborn for EDA and visualization) and **mathematics** — which allows me to approach problems analytically, understand statistical concepts deeply, and deliver rigorous, reliable analysis from day one.
 
-**Core Skills**  
-- **SQL** — Complex queries, joins, window functions, CTEs  
-- **Python** — Pandas, NumPy, Matplotlib & Seaborn for EDA  
-- **Visualization** — Power BI + Tableau Public (learning)  
-- **Excel** — Advanced (pivot tables, Power Query, dynamic dashboards)  
-- **Statistics** — Descriptive analysis & basic inferential  
-- **Bonus** — Learning dbt and cloud basics (BigQuery)
+**What I bring to the table**  
+- **SQL** — Proficient in writing complex queries, joins, window functions, CTEs and aggregations for efficient data extraction  
+- **Python** — Strong EDA, data cleaning, feature engineering, and exploratory analysis  
+- **Statistics** — Solid grasp of descriptive/inferential methods to identify patterns and validate findings  
+- **Visualization & Storytelling** — Building intuitive dashboards (Power BI, Tableau Public) and presenting insights that drive decisions  
+- **Excel** — Advanced level (pivot tables, Power Query, dynamic reports) for quick business analysis  
+
+I'm proactive, detail-oriented, and thrive in collaborative environments where I can contribute immediately while continuously learning.  
+
+**Open to growing** — I'm excited to expand into more technical areas like data engineering (pipelines, dbt, cloud tools) and AI/ML fundamentals, making me adaptable to hybrid or evolving roles in fast-moving teams.
+
+Looking for my first **junior data analyst** opportunity (or internship) where I can apply these skills to solve real problems and add value from the start. Let's connect!
 
 ---
 
