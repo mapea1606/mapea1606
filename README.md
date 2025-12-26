@@ -1,4 +1,4 @@
-# Manuel Paguila
+# Manuel P
 
 **Aspiring Data Analyst**  
 SQL · Python (Pandas & EDA) · Data Visualization · Business Insights  
