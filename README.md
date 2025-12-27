@@ -9,24 +9,20 @@
 
 ---
 
-### About Me 🌟
+### About Me 👨‍💼
 
-Passionate **junior data analyst** with a strong quantitative foundation and a genuine love for transforming complex data into clear, actionable business insights.  
+Junior Data Analyst with strong quantitative skills and experience in data processing and analysis.
 
-Comfortable working with **Python** (Pandas, NumPy, Matplotlib/Seaborn for EDA and visualization) and **mathematics** — which allows me to approach problems analytically, understand statistical concepts deeply, and deliver rigorous, reliable analysis from day one.
+**Technical Skills**  
+- SQL: complex queries, joins, window functions, aggregations  
+- Python: Pandas, NumPy, Matplotlib/Seaborn for EDA and visualization  
+- Data Visualization: Power BI and Tableau Public  
+- Advanced Excel: pivot tables, Power Query, dynamic reports  
+- Statistics: descriptive and basic inferential analysis  
 
-**What I bring to the table**  
-- **SQL** — Proficient in writing complex queries, joins, window functions, CTEs and aggregations for efficient data extraction  
-- **Python** — Strong EDA, data cleaning, feature engineering, and exploratory analysis  
-- **Statistics** — Solid grasp of descriptive/inferential methods to identify patterns and validate findings  
-- **Visualization & Storytelling** — Building intuitive dashboards (Power BI, Tableau Public) and presenting insights that drive decisions  
-- **Excel** — Advanced level (pivot tables, Power Query, dynamic reports) for quick business analysis  
+Solid foundation in mathematics and analytical thinking. Actively learning dbt, cloud tools (BigQuery) and AI/ML fundamentals.
 
-I'm proactive, detail-oriented, and thrive in collaborative environments where I can contribute immediately while continuously learning.  
-
-**Open to growing** — I'm excited to expand into more technical areas like data engineering (pipelines, dbt, cloud tools) and AI/ML fundamentals, making me adaptable to hybrid or evolving roles in fast-moving teams.
-
-Looking for my first **junior data analyst** opportunity (or internship) where I can apply these skills to solve real problems and add value from the start. Let's connect!
+Seeking entry-level Data Analyst or internship opportunities to contribute to data-driven decision making.
 
 ---
 
