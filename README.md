@@ -16,7 +16,7 @@ Junior Data Analyst with strong quantitative skills and experience in data proce
 **Technical Skills**  
 - SQL: complex queries, joins, window functions, aggregations  
 - Python: Pandas, NumPy, Matplotlib/Seaborn for EDA and visualization  
-- Data Visualization: Power BI and Tableau Public  
+- Data Visualization: Power BI  
 - Advanced Excel: pivot tables, Power Query, dynamic reports  
 - Statistics: descriptive and basic inferential analysis  
 
@@ -26,7 +26,7 @@ Seeking entry-level Data Analyst or internship opportunities to contribute to da
 
 ---
 
-### Featured Projects 📊
+### Featured Projects
 
 | Project                          | Description                                      | Tools                              | Status      | Link                                                                 |
 |----------------------------------|--------------------------------------------------|------------------------------------|-------------|----------------------------------------------------------------------|
