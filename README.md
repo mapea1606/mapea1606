@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Manuel P</h1>
-  <h3>Aspiring Data Analyst 🚀</h3>
+  <h3>Aspiring Data Analyst</h3>
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### About Me 👨‍💼
+### About Me
 
 Junior Data Analyst with strong quantitative skills and experience in data processing and analysis.
 
@@ -39,7 +39,7 @@ All projects include clean code, step-by-step explanations, visualizations, and 
 
 ---
 
-### Let's Connect! 📬
+### Let's Connect!
 
 I'm open to opportunities, feedback, collaborations, or just chatting about data.  
 Reach out anytime!
